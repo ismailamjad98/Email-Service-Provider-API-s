@@ -25,7 +25,7 @@ Admin
 •	Cron Jobs
 
 
-                                                                              Functional Requirments
+                                                                      Functional Requirments
 
 
 Use Case ID:	FR-001
@@ -50,7 +50,7 @@ Assumptions:	If the all the requirements are fill and correct. The client should
 
 
 
-Use Case ID:	FR-002
+                                                        Use Case ID:	FR-002
 
 Use Case Name:	Login
 
@@ -69,7 +69,7 @@ Exceptions:	All the Fields is Required. If any of them is empty. Or provide the 
 Assumptions:	If the all the requirements are fill and correct. The client should successfully login into the system. And receive a Jwt Token.
 
 
-Use Case ID:	FR-003
+                                                        Use Case ID:	FR-003
 
 Use Case Name:	Listing Requests 
 
@@ -85,7 +85,7 @@ Assumptions:	It should show the correct information that is available in databas
 
 
 
-Use Case ID:	FR-004
+                                                           Use Case ID:	FR-004
 
 
 Use Case Name:	User Information/Profile
@@ -105,7 +105,7 @@ Assumptions:	If the all the requirements are correct. The client should successf
 
 
 
-Use Case ID:	FR-005
+                                                    Use Case ID:	FR-005
 
 Use Case Name:	Billing info & Payments
 
@@ -125,7 +125,7 @@ Assumptions:	If the all the requirements are fill and correct. The client should
 
 
 
-Use Case ID:	FR-006
+                                                      Use Case ID:	FR-006
 
 Use Case Name:	Add New Secondary Users
 
@@ -143,7 +143,7 @@ Exceptions:	All the Fields is Required. If any of them is empty. Or provide the 
 
 
 
-Use Case ID:	FR-007
+                                                Use Case ID:	FR-007
 
 Use Case Name:	Send Email
 
@@ -160,7 +160,7 @@ Normal Flow:	user have to hit the user Api on the Postman with POST method.
 Exceptions:	All the Fields is Required. If any of them is empty. Or provide the wrong information. It will generate error. Email is not Sent.
 
 
-Use Case ID:	FR-008
+                                                          Use Case ID:	FR-008
 
 Use Case Name:	Cron Jobs Sending low balance emails.
 
